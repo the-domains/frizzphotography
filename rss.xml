@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[FrizzPhotography ]]></title>
         <description><![CDATA[FrizzPhotography ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frizzphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jul 2016 03:09:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jul 2016 03:10:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frizzphotography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a49e7153-f8f6-4ce4-a15b-8ef4d7c28af7.jpg">]]></description>
-            <link>undefined3d1afea7-5bfd-4df4-84e1-574e9459e88f/index.html</link>
+            <link>https://thegrid.ai/frizzphotography/3d1afea7-5bfd-4df4-84e1-574e9459e88f/index.html</link>
             <guid isPermaLink="false">3d1afea7-5bfd-4df4-84e1-574e9459e88f</guid>
             <pubDate>Sat, 02 Jul 2016 03:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64aa7de5-47b8-4d5f-b719-1e8f527e0291.jpg">]]></description>
+            <link>https://thegrid.ai/frizzphotography/e4f80461-471f-45c5-931f-3ab751a11b6f/index.html</link>
+            <guid isPermaLink="false">e4f80461-471f-45c5-931f-3ab751a11b6f</guid>
+            <pubDate>Sat, 02 Jul 2016 03:09:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
